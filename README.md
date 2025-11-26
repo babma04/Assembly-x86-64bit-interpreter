@@ -40,5 +40,6 @@
     - Implement a debugging execution type with gdb commands and one instruction at a time execution;
 
 
-## Contributers
+## Contributors
+
 ### - João Louro @FCUL comp. science year 1;
