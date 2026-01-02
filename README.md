@@ -1,5 +1,5 @@
-# Assembly x84 64 bit python compiler
-#### A simple assembly x84 64bit compiler with sequencial execution and error detector.
+# Assembly x84 64 bit python interpreter
+#### A simple assembly x84 64bit interpreter with sequencial execution and error detector.
 
 
 ## About the Project
@@ -43,3 +43,4 @@
 ## Contributors
 
 ### - João Louro @FCUL comp. science year 1;
+
